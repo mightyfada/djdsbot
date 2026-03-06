@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+node_modules/
+.env
+.env.local
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.DS_Store
